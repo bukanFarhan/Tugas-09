@@ -1,0 +1,14 @@
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\bin\Debug\netcoreapp3.1\19.11.2842_Tugas09.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\bin\Debug\netcoreapp3.1\19.11.2842_Tugas09.deps.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\bin\Debug\netcoreapp3.1\19.11.2842_Tugas09.runtimeconfig.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\bin\Debug\netcoreapp3.1\19.11.2842_Tugas09.runtimeconfig.dev.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\bin\Debug\netcoreapp3.1\19.11.2842_Tugas09.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\bin\Debug\netcoreapp3.1\19.11.2842_Tugas09.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.csproj.AssemblyReference.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.GeneratedMSBuildEditorConfig.editorconfig
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.AssemblyInfoInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.AssemblyInfo.cs
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.csproj.CoreCompileInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P9, Polymorphsm\19.11.2842_Tugas09\19.11.2842_Tugas09\obj\Debug\netcoreapp3.1\19.11.2842_Tugas09.genruntimeconfig.cache
